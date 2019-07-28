@@ -10,3 +10,5 @@ fields:
     min: 
     max: 
   label: Blog post label
+pages:
+- Content directory here/blog post pertama.md
